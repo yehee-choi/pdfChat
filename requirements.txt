@@ -1,10 +1,7 @@
-streamlit
 langchain
-langchain-community
-langchain-openai
-langchain-chroma==0.1.2
-chromadb==0.4.24
-openai
-python-dotenv
-pypdf
+langchain_openai
+langchain_community
+pypdf   
+tiktoken
+langchain-chroma
 pysqlite3-binary
