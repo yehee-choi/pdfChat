@@ -2,10 +2,10 @@ streamlit
 langchain
 langchain-community
 langchain-openai
-langchain-chroma
+langchain-chroma==0.1.2
+chromadb==0.4.15
 openai
 python-dotenv
 pypdf
-chromadb
 streamlit
 
